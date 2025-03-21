@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+venv/
+yolov2-env/
+__pycache__/
+
+# Ignore PyTorch libraries
+*.dylib
+*.so
+*.dll
